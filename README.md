@@ -16,3 +16,17 @@ look we issued the command git add index.html and now it is ready to commit in g
 
 <br>
  We issued the command git add . it means that all the new and modified file add the project and rady to commit
+
+
+ <br>
+ git status after commit command output said you are one comment ahead now means the chnages are fine and saved in local machine but the remote git hub repository still the previous.
+
+ <br>
+ On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+<br>
+git push is the command that is you to make changes also on the git hub repository 
